@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "hbsaems"]
+	path = hbsaems
+	url = https://github.com/madsyair/hbsaems
 [submodule "neodistr"]
 	path = neodistr
 	url = https://github.com/madsyair/neodistr
