@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "accuracylevel"]
+	path = accuracylevel
+	url = https://github.com/madsyair/accuracylevel
 [submodule "hbsaems"]
 	path = hbsaems
 	url = https://github.com/madsyair/hbsaems
